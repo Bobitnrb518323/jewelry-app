@@ -1,0 +1,8 @@
+{
+  "name": "Jewelry Shopping System",
+  "description": "An luxury-grade jewelry e-commerce platform featuring secure M-Pesa payments, blockchain-certified authenticity verification, and AR-powered virtual try-ons tailored to the Kenyan jewelry market.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
