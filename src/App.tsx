@@ -622,7 +622,7 @@ export default function App() {
             <div className="relative flex justify-center">
               <div className="relative w-80 h-96 rounded-3xl overflow-hidden border border-white/10 shadow-2xl skew-x-1">
                 <img
-                  src="https://images.unsplash.com/photo-1624510461623-1d00c4068cc0?auto=format&fit=crop&q=80&w=400"
+                  src="https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&q=80&w=400"
                   alt="Elite Collar"
                   className="w-full h-full object-cover origin-center hover:scale-105 transition-transform duration-700"
                 />

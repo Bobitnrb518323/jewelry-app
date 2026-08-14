@@ -161,7 +161,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     description: "A premium masterpiece. An endless line of deeply saturated midnight-blue Madagascar sapphires totalizing dozens of carats. Alternated with microscopic sparkling white diamonds in a fluid platinum frame.",
     priceKSh: 495000,
     category: "necklaces",
-    image: "https://images.unsplash.com/photo-1624510461623-1d00c4068cc0?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&q=80&w=600",
     material: "950 Platinum",
     gemstone: "Midnight-Blue Madagascar Sapphires",
     stars: 5.0,
